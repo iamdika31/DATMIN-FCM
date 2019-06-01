@@ -8,7 +8,7 @@ Created on Sun May 19 20:16:31 2019
 import numpy as np
 import pandas as pd
 #atribut = np.array(([12,7,9],[5,4,5],[8,11,4],[10,3,8],[9,1,3]))
-df = pd.read_csv("iris_data.csv")
+df = pd.read_csv("Kelompok-4 (Data).csv")
 
 cluster = 3 
 w = 2 
